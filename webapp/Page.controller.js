@@ -140,7 +140,6 @@ sap.ui.define([
 				}, oRresponses.response_2);
 			};
 			aRequests.push({method: sMethod, path: sPath, response: fnResponse4});
-
 			return aRequests;
 		}
 	});
